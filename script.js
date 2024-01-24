@@ -5,6 +5,7 @@ function setup(){
 function draw(){
   background(200);
   // add your drawing code here ...
-  fill (290,400,30)
-  ellipse(150,50,50)
+  fill (290,900,30)
+  ellipse(150, 50, 50)
+  triangle(110, 200, 30, 20, 100, 100);
 }
